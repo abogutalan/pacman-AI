@@ -22,7 +22,7 @@ Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
 
 # Part 1
 ## Develop a sophisticated feature extractor
-- Don't run away from ghosts if they are scared.
+- Implemented feature: Don't run away from ghosts if they are scared.
 > python pacman.py -p ApproximateQAgent -a extractor=myExtractor -x 50 -n 60 -l mediumClassic
 - Average Score: 1595.5 \
 Scores:        1747.0, 1335.0, 1347.0, 1937.0, 1919.0, 1727.0, 1533.0, 1330.0, 1540.0, 1540.0 \
